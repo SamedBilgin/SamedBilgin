@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamedBilgin
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently majoring in Computer Engineering 
 - 📫 How to reach me samedbilgin322@gmail.com
 
